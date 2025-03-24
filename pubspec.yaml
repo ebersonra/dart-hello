@@ -1,0 +1,9 @@
+name: dart_app
+
+dependencies:
+  intl: ^0.20.0
+  path: ^1.9.1
+  vector_math: ^2.1.4
+
+environment:
+  sdk: ^3.7.0
